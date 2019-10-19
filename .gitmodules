@@ -1,0 +1,11 @@
+[submodule "buildSrc"]
+	path = buildSrc
+	url = https://github.com/OpenCubicChunks/CubicGradle
+[submodule "CubicChunks"]
+	path = CubicChunks
+	url = https://github.com/OpenCubicChunks/CubicChunks
+	branch = MC_1.12
+[submodule "CubicWorldGen"]
+	path = CubicWorldGen
+	url = https://github.com/OpenCubicChunks/CubicWorldGen
+	branch = MC_1.12

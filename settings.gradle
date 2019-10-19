@@ -1,0 +1,6 @@
+include 'CubicChunks'
+project(':CubicChunks').projectDir = file('CubicChunks/CubicChunks')
+
+include 'CubicWorldGen'
+project(':CubicWorldGen').projectDir = file('CubicWorldGen/CubicWorldGen')
+rootProject.name = "CC_ALL_1_12"
