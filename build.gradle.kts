@@ -90,4 +90,5 @@ allprojects {
 
 dependencies {
     implementation(project(":CubicChunks"))
+    implementation(project(":CubicWorldGen"))
 }
